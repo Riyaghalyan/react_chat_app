@@ -10,6 +10,11 @@ Real-time chat app where users can communicate with each other in real-time thro
 you can check the site from here
 https://chatapp-p.netlify.app
 
+## demo
+
+![image](https://github.com/Riyaghalyan/react_chat_app/assets/63540418/5a3d393c-f8f5-4004-aa31-9bc23ad30739)
+
+
 
 
 
